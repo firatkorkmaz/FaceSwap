@@ -1,0 +1,11 @@
+Files to be placed in this folder:
+
+pts_in_hull.npy
+colorization_deploy_v2.prototxt
+colorization_release_v2.caffemodel
+shape_predictor_68_face_landmarks.dat
+dlib-19.22.99-cp39-cp39-win_amd64.whl
+dlib-19.22.99-cp310-cp310-win_amd64.whl
+
+
+Download Link: https://drive.google.com/file/d/1lyFydvzTFjyhCLRBcHrAUUM4EjFp3qgV/view
